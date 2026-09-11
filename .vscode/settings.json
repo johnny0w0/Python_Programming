@@ -4,5 +4,6 @@
     "editor.formatOnSave": true
     },
     "code-runner.saveAllFilesBeforeRun": true,
-    "terminal.integrated.fontSize": 14
+    "terminal.integrated.fontSize": 14,
+    "code-runner.runInTerminal": true
 }
