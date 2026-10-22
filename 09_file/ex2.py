@@ -92,4 +92,3 @@ print(json_str)
 # 역직렬화) JSON 형식 문자열 -> 파이썬 객체
 parsed = json.loads(json_str)
 print(parsed)
-#
